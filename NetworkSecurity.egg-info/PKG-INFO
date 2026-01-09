@@ -6,7 +6,7 @@ Author-email: kriti.gupta1905@gmail.com
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]>=4.0
 Requires-Dist: certifi
 Dynamic: author
 Dynamic: author-email
